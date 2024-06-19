@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 from PIL import Image
-img = Image.open("C:\\Users\\Education\\Downloads\\new.jpg")
-img.show()
 
 st.text("Resume Format Web")
 
