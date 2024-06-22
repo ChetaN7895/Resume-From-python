@@ -24,7 +24,7 @@ code = """
             <h1>RESUME</h1>
             <p>Contact: <a href="abcd.com">chetansolanki6393@gmail.com</a> </p>
             <p>LinkedIn: <a href="linkedin.com">https://www.linkedin .com/in/chetan-solanki-66a6842b5           </p>
-            <p>GitHub: <a href="github.com">https://github.com/ChetaN7895</a> </p>
+            <p>GitHub: <a href='https://github.com/ChetaN7895'>github.com/ChetaN7895</a> </p>
 
         </div>
 
